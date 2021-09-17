@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KhaiDreams
+- 🌱 I’m currently learning React Native| ReactJS | NodeJS | Javascript | Typescript | HTML | CSS | Python | PHP
+- 📫 How to reach me https://www.linkedin.com/in/alexandre-crispim-409924220/
