@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhaiDreams<br>
-- 🌱 Estudando React Native| ReactJS | NodeJS | Javascript | Typescript | HTML | CSS | Python | PHP | Java<br>
-- 📫 Como me achar https://www.linkedin.com/in/alexandre-crispim-409924220/<br>
+- 🌱 Estudando React Native| ReactJS | NodeJS | Javascript | Typescript | HTML | CSS | Python | PHP | Java |<br>
+- 📫 Como me achar https://www.linkedin.com/in/alexandre-crispim-409924220/<br> 
 
 
 <div>
