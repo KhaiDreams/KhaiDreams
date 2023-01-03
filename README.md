@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhaiDreams<br>
-- 🌱 Estudando | Javascript | HTML | CSS | Python |<br>
+- 🌱 Estudando | Node.JS | React.JS |<br>
 - 📫 Como me achar https://www.linkedin.com/in/alexandre-crispim-409924220/<br> 
 
 
