@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhaiDreams<br>
 - 🌱 Estudando | Node.JS | React.JS |<br>
-- 📫 Como me achar https://www.linkedin.com/in/alexandre-crispim-409924220/<br> 
+- 📫 Como me achar https://www.linkedin.com/in/alexandre-crispa<br> 
 
 
 <div>
