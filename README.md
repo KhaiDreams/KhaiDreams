@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KhaiDreams<br>
-- 🌱 Estudando | React.JS | Nest.JS |<br>
 - 📫 Como me achar https://www.linkedin.com/in/alexandre-crispa<br> 
 
 
