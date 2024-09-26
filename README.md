@@ -4,7 +4,6 @@
 - 🤔 Esse perfil tem poucos commit's pois trabalho usando notebook e perfil da empresa
 
 <div>
-  <a href="https://github.com/KhaiDreams">
   <img width="400"height="180em" src="https://github-readme-stats.vercel.app/api?username=KhaiDreams&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiDreams&layout=compact&langs_count=7&theme=dark"/> 
 </div>
