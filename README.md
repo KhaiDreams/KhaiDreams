@@ -8,3 +8,11 @@
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=KhaiDreams&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaiDreams&layout=compact&langs_count=7&theme=dark"/> 
 </div>
+
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
+
+  </div>
